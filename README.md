@@ -12,7 +12,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻  I’m currently working on Algorithms and Data Structure learning.
-- 🌱  I’m currently learning C. 
+- 🌱  I’m currently learning Python. 
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: lorenzowbdev@gmail.com
 
