@@ -3,7 +3,7 @@
 <p align="center">
   <br>
   <br>
-  <a href="https:// www.linkedin.com/in/lorenzo-battistela">LinkedIN</a> •
+  <a href="https://www.linkedin.com/in/lorenzo-battistela">LinkedIN</a> •
   <a href="https://www.instagram.com/lorenzo_wb/">Instagram</a> •
   <a href="https://twitter.com/Lorenzoowb">Twitter</a>
 </p>
