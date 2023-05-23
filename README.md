@@ -11,7 +11,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently working on Blockchain Development.
+- 👨🏽‍💻  I’m currently working on Data Engineering.
 - 🌱  I’m currently learning Artificial Intelligence and Data Science. 
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: lorenzowbdev@gmail.com
