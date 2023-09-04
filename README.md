@@ -1,5 +1,4 @@
 
-<h2 align="center">Hey, I'm Lorenzo
 <p align="center">
   <br>
   <br>
